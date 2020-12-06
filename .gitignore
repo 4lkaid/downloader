@@ -1,0 +1,7 @@
+*
+!.gitignore
+!go.*
+!*.go
+!*.md
+!demo.txt
+!LICENSE
