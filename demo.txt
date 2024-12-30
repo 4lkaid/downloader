@@ -1,0 +1,15 @@
+https://img.dota2.com.cn/dota2/ce/b8/ceb8c078cf6b410d7def183870fe584d1590566557.jpg=>>dota2/jpg/a.jpg
+https://img.dota2.com.cn/dota2/fe/f4/fef4eadd191c3461054ca60cde8576db1590566398.jpg=>>./dota2/jpg/b.jpg
+https://img.dota2.com.cn/dota2/8a/11/8a116da0668edebd82af16ecf7e75ace1590566316.jpg=>>./dota2/jpg/c.jpg
+https://img.dota2.com.cn/dota2/c2/74/c274cba3b6acd5fbf20ea2941319c2a21590566103.jpg=>>./dota2/jpg/d.jpg
+https://img.dota2.com.cn/dota2/b5/97/b5978ead603dcdc66704e721960debe31590565987.jpg=>>./dota2/jpg/e.jpg
+https://img.dota2.com.cn/dota2/03/fe/03fe585749ce0a26a8c24969dfa72fc31590565616.jpg=>>./dota2/jpg/f.jpg
+https://img.dota2.com.cn/dota2/b3/e7/b3e73c3bcf3a748355bc516e3f3f64381557812492.jpg=>>b3e73c3bcf3a748355bc516e3f3f64381557812492.jpg
+https://img.dota2.com.cn/dota2/bd/6e/bd6edf01cc072f2d74a512c5cab1c3be1463732407.png=>>dota2/png/a.png
+https://img.dota2.com.cn/dota2/3d/d4/3dd4da94c39b2101277f4d21312c19d81463732377.png=>>./dota2/png/b.png
+https://img.dota2.com.cn/dota2/55/4e/554e21161de34506e9cb1ecbcd85716d1463732343.png=>>./dota2/png/c.png
+https://img.dota2.com.cn/dota2/a7/48/a748932756b48bd46a8fd17df4579dea1463732104.png=>>./dota2/png/d.png
+https://img.dota2.com.cn/dota2/3a/59/3a5950fc2408a7f8136de8704e1819c21463732075.png=>>./dota2/png/e.png
+https://img.dota2.com.cn/dota2/f2/9a/f29af13446f1feed47dcfd299ccaa23c1463732001.png=>>./dota2/png/f.png
+https://img.dota2.com.cn/dota2/01/81/018194d9aac11f975e17b274fe4a78af1463731957.png=>>./dota2/png/g.png
+https://img.dota2.com.cn/dota2/ea/58/ea5871bc33e131b497b9bb273890e8ae1463731875.png=>>ea5871bc33e131b497b9bb273890e8ae1463731875.png
